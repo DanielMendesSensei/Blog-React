@@ -1,0 +1,8 @@
+{
+  "header": "Inserir novo Post:",
+  "titleLabel": "Título:",
+  "titlePlaceholder": "Digite o título",
+  "bodyLabel": "Conteúdo:",
+  "bodyPlaceholder": "Digite o conteúdo",
+  "submitButton": "Criar Post"
+}
